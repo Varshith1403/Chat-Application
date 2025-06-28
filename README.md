@@ -20,6 +20,12 @@ A real-time web chat application built with React and Firebase. Users can sign u
 - 🎨 Tailwind CSS (or CSS Modules)
 - 🔔 React Toastify
 
+## 👨‍💻 Developer
+
+**Muthyala Varshith Reddy**  
+📧 Email: varshithreddy1403@gmail.com  
+🌐 GitHub: [Varshith1403](https://github.com/Varshith1403)  
+📍 Location: India  
 
 ## 🧪 Getting Started
 
@@ -28,11 +34,4 @@ git clone https://github.com/Varshith1403/Chat-Application.git
 cd Chat-Application
 npm install
 npm run dev
-
-## 👨‍💻 Developer
-
-**Muthyala Varshith Reddy**  
-📧 Email: varshithreddy1403@gmail.com  
-🌐 GitHub: [Varshith1403](https://github.com/Varshith1403)  
-📍 Location: India  
 
