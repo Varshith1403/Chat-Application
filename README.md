@@ -1,8 +1,38 @@
-# React + Vite
+# 💬 Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A real-time web chat application built with React and Firebase. Users can sign up, set a profile picture and bio, search for friends, and send messages—including images—in a clean, responsive UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 User Authentication with Firebase Auth
+- 📸 Profile picture upload & editable bio
+- 🧑‍🤝‍🧑 Add/search friends
+- 💬 Real-time messaging (text & images)
+- ✅ Seen status & latest message preview
+- 📱 Responsive modern UI (like WhatsApp mini clone)
+- 🔁 Live updates with Firestore listeners
+
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- 🔥 Firebase (Auth + Firestore + Storage)
+- ☁️ Vite
+- 🎨 Tailwind CSS (or CSS Modules)
+- 🔔 React Toastify
+
+
+## 🧪 Getting Started
+
+```bash
+git clone https://github.com/Varshith1403/Chat-Application.git
+cd Chat-Application
+npm install
+npm run dev
+
+## 👨‍💻 Developer
+
+**Muthyala Varshith Reddy**  
+📧 Email: varshithreddy1403@gmail.com  
+🌐 GitHub: [Varshith1403](https://github.com/Varshith1403)  
+📍 Location: India  
+
